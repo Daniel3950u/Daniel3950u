@@ -1,61 +1,32 @@
-# Hi, I'm Yoltzin 👋
+# Yoltzin Daniel Figueroa Urzua
 
-I'm an **Electrical-Electronic Engineering student** at the **Universidad Autónoma del Estado de Morelos (UAEM)** in Mexico.
+Electrical-Electronic Engineering student at Universidad Autónoma del Estado de Morelos (UAEM), Mexico. I develop my engineering skills through academic projects in electrical design, electronics, programming and numerical methods.
 
-I'm developing my skills in electrical engineering, electronics, programming, embedded systems, and technical design through academic and personal projects.
+## Technical skills
 
-## About Me
+- Programming: Python and C.
+- Electrical design: AutoCAD, electrical drawings, single-line diagrams and technical documentation.
+- Electronics and simulation: Arduino UNO and Tinkercad.
+- MATLAB: basic academic use, including numerical-method exercises.
 
-- 🎓 B.Sc. student in **Electrical-Electronic Engineering**
-- ⚡ Interested in **electrical systems, electronics, automation, and embedded systems**
-- 💻 Programming with **Python and C/C++**
-- 🔧 Working with **Arduino, AutoCAD, and Tinkercad**
-- 📐 Experience with **electrical drawings, single-line diagrams, load schedules, and technical documentation**
-- 🔐 Currently completing coursework in **cybersecurity**
-- 🌐 **IEEE Student Member**
-- 📍 Cuernavaca, Morelos, Mexico
+## Selected academic work
 
-## Technical Skills
+### [Smart Irrigation System](https://github.com/Daniel3950u/Smart-Irrigation-System)
+Academic team project (2025): Arduino UNO and Tinkercad simulation of irrigation control using moisture thresholds and watering time proportional to the moisture deficit. Simulation and design work; physical implementation is a separate stage.
 
-**Programming**  
-Python · C · C++
+### Residential Electrical Installation Design
+Individual academic work in AutoCAD. Final revision 0, October 2026: ground-floor and upper-floor electrical plans, single-line diagram, circuit identification and conductor specifications.
 
-**Engineering & Design**  
-AutoCAD · Electrical Drawings · Single-Line Diagrams · Load Schedules
+### Numerical Methods
+Newton polynomial interpolation and extrapolation in C, using divided differences and nested evaluation; Gauss-Jordan exercises in MATLAB. These are learning projects, with limitations documented alongside the code.
 
-**Electronics & Simulation**  
-Arduino · Tinkercad
+## Learning and affiliation
 
-**Other Software**  
-MATLAB — Basic
+- Foundations of Cybersecurity — Google / Coursera, 6 May 2026. [Verify course completion](https://coursera.org/verify/6B4BU8MIEZ8S).
+- IEEE Student Member in good standing through December 2026.
 
-## Selected Projects
+## Languages
 
-### 🌱 [Smart Irrigation System](https://github.com/Daniel3950u/Smart-Irrigation-System)
-Arduino-based automated irrigation system designed to regulate watering according to soil-moisture conditions.
+Spanish: native. English: CEFR B2 — TOEFL iBT 80/120, 11 October 2026.
 
-**Technologies:** Arduino UNO · C/C++ · Tinkercad · Electronic Components
-
-### ⚡ Electrical Installation Design
-Academic electrical engineering project involving the development of technical documentation for an electrical installation.
-
-**Work included:** Electrical plans · Floor plans · Single-line diagram · Load schedule · Detailed engineering drawings
-
-> Project repository coming soon.
-
-## Currently Learning
-
-- Electrical and electronic engineering applications
-- Python and C programming
-- Embedded systems
-- Cybersecurity fundamentals
-- MATLAB
-
-## Professional Affiliation
-
-**IEEE — Institute of Electrical and Electronics Engineers**  
-Student Member
-
----
-
-I'm currently building this GitHub profile as a portfolio of my academic and engineering projects.
+[LinkedIn](https://www.linkedin.com/in/yoltzin-daniel-figueroa-urzua/)
