@@ -25,7 +25,7 @@ Newton polynomial interpolation and extrapolation in C, using divided difference
 ## Personal learning project
 
 ### LilyGO T-Embed CC1101
-Hardware modifications, nRF24 integration, and installation and configuration of Bruce firmware as an introduction to embedded systems, RF communication and responsible cybersecurity research. I prepared a learning guide to understand the platform and the consequences of misuse. The currently installed firmware version has not been confirmed.
+Hardware modifications, nRF24 integration, and installation and configuration of Bruce firmware as an introduction to embedded systems, RF communication and responsible cybersecurity research. I prepared a learning guide to understand the platform and the consequences of misuse. Bruce 1.9 is currently installed on the device. The original guide references Bruce 1.8.x and remains to be updated for 1.9.
 
 This project represents hands-on learning and documentation; it does not establish measured RF performance or validated security-testing results. Public documentation focuses on learning, hardware context and responsible use.
 
