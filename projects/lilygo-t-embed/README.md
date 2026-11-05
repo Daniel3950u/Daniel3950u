@@ -12,11 +12,4 @@ Personal learning in embedded systems, RF communication and responsible cybersec
 
 Bruce 1.9 is installed on the device. The original guide references Bruce 1.8.x, including 1.8.2, and has not yet been updated for 1.9. The guide is study material and does not prove that every feature was tested. Source-code modifications, measured RF performance and validated security-testing results are not documented here.
 
-## Next documentation steps
-
-- Record the exact hardware inventory and update the guide for Bruce 1.9.
-- Add original photographs without identifying information when available.
-- Explain modifications at a high level and attribute third-party references.
-- Record non-disruptive, authorized lab observations with conditions and limitations.
-
 Public documentation focuses on learning and integration. It excludes instructions for interference, disruption or unauthorized access.
